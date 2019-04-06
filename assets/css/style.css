@@ -12,6 +12,9 @@ body {
 h1 {
     color:white;
     text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 70px !important;
+    padding-top: 15px !important;
 }
 
 .instructions {
@@ -20,6 +23,7 @@ h1 {
     font-weight: bold;
     padding: 20px;
     margin: 20px;
+    margin-top: 10px;
     text-align: center;
 }
 
@@ -43,6 +47,7 @@ h1 {
     color: purple;
     margin: auto;
     padding: 20px;
+    padding-top: 35px;
 }
 
 .gems {
@@ -50,8 +55,9 @@ h1 {
 }
 
 .counter p {
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
+
 }
 
 #gem-box {
@@ -69,6 +75,12 @@ h1 {
     height: 100px;
     width: 800px;
     padding: 10px;
+    padding-bottom: 30px;
     margin: auto;
     text-align: center;
 }
+
+#user-score {
+    font-size: 20px;
+}
+

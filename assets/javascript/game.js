@@ -71,6 +71,7 @@ $(document).ready(function () {
             wins++;
             startGame();
         }
+   
         if (totalScore > randomNumber) {
             alert("Sorry you Lose");
             losses++
