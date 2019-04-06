@@ -1,0 +1,74 @@
+img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+body {
+    background-image: url("/assets/images/background-image.jpg");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+}
+
+.instructions {
+    background-color: rgb(244, 205, 205);
+    color: green;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.random-number-box {
+    background-color: lightgreen;
+    height: 200px;
+    width: 400px;
+    color: purple;
+    font-size: 50px;
+    margin: auto;
+    padding: 20px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.counter {
+    background-color: lightblue;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+    color: purple;
+    margin: auto;
+    padding: 20px;
+}
+
+.gems {
+    text-align: center;
+}
+
+.counter p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#gem-box {
+    height: 200px;
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.scoreboard {
+    background-color:rgb(235, 235, 172);
+    color: green;
+    font-weight: bold;
+    height: 100px;
+    width: 800px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
