@@ -4,7 +4,7 @@ img {
 }
 
 body {
-    background-image: url("/assets/images/background-image.jpg");
+    background-image: url("../images/background-image.jpg");
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
 }
