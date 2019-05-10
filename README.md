@@ -9,6 +9,6 @@ Use the jewels to try and match the random number! Each jewel is assigned a valu
 * HTML
 * CSS
 * Javascript
-* JQuery
+* jQuery
 * Google Fonts
 * Bootstrap
